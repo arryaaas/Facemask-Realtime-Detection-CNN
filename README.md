@@ -1,1 +1,1 @@
-# Facemask-Realtime-Detection-CNN
+# Realtime-Facemask-Detection-CNN
