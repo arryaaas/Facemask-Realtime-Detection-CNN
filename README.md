@@ -2,7 +2,7 @@
 
 Pengenalan Wajah Bermasker Dan Tidak Menggunakan Convolutional Neural Network
 
-# Dataset
+## Dataset
 
 Dataset yang digunakan didapatkan dari https://www.kaggle.com/omkargurav/face-mask-dataset
 
