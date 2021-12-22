@@ -14,7 +14,7 @@ Dataset yang digunakan didapatkan dari https://www.kaggle.com/omkargurav/face-ma
 
 ## Demo
 
-![Demo](https://github.com/arryaaas/Realtime-Facemask-Detection-CNN/blob/main/README%20Images/demo.gif)
+![Demo](README%20Images/demo.gif)
 
 ## License
 
