@@ -24,6 +24,6 @@ Dataset yang digunakan didapatkan dari https://www.kaggle.com/omkargurav/face-ma
 
 [![](http://img.shields.io/badge/-YouTube-lightgrey?logo=youtube&style=flat&logoColor=white&color=FF0000)](https://youtu.be/AeP4d1_p0rs) 
 
-## License
+## Lisensi
 
 Distributed under the MIT License. See `LICENSE` for more information.
