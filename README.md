@@ -14,7 +14,7 @@ Dataset yang digunakan didapatkan dari https://www.kaggle.com/omkargurav/face-ma
 
 ## Demo
 
-![Demo](README%20Images/demo.gif)
+![Demo](demo/demo.gif)
 
 ## License
 
