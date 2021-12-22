@@ -12,6 +12,10 @@ Dataset yang digunakan didapatkan dari https://www.kaggle.com/omkargurav/face-ma
     └─── without mask ( 3828 gambar )
 ```
 
+## Demo
+
+![Demo](https://github.com/arryaaas/Realtime-Facemask-Detection-CNN/blob/main/README%20Images/demo.gif)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
