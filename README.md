@@ -1,6 +1,6 @@
 # Realtime-Facemask-Detection-CNN
 
-Pengenalan Wajah Bermasker Dan Tidak Menggunakan Convolutional Neural Network ( CNN ) Pada Foto Dan Video Realtime.
+Pengenalan Wajah Bermasker Dan Tidak Menggunakan Convolutional Neural Network.
 
 - File [facemask_detection_cnn.ipynb](facemask_detection_cnn.ipynb) untuk train model.
 - File [facemask_detection_cnn_photo.ipynb](facemask_detection_cnn_photo.ipynb) untuk klasifikasi menggunakan foto.
